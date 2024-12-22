@@ -1,4 +1,4 @@
-# Smartraveller API
+Smartraveller API
 
 A simple API for travel advisories published by the Australian DFAT [Smartraveller](https://www.smartraveller.gov.au/).
 
